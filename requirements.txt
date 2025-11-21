@@ -1,0 +1,4 @@
+crewai
+litellm
+streamlit>=1.20
+python-dotenv
